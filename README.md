@@ -1,5 +1,7 @@
 # Chicago Crime Visualization
 
+### Dashboard Link - https://public.tableau.com/app/profile/priya.rao3176/viz/IST737_FinalDashboard/TileDashboardMain
+
 ## Overview
 
 The main aim of this visualization was to allow users to see the crime metrics from 2015 to 2022. The dataset comes directly from the City of Chicago’s website, spanning from the year 2015 to 2022. The main aim of creating this visualization using Tableau was to analysis the different parameters such as the location, arrest %, seasons, time of day that would affect the crime count in the city and turn this in valuable and actionable insights. The initial data transformations were carried out in Tableau.I have explored creating parameters, calculated field and level of detail while creating this dashboard.This visualization has 6 dashboards which gives a in-depth understanding about the crimes that have occurred based on the different parameters. 
