@@ -7,4 +7,5 @@ The main aim of this visualization was to allow users to see the crime metrics f
 ## Dashboard 1
 The opening dashboard gives an overview about the crime metrics - crime count, crime rate and the arrest % for a particular year. This dashboard also gives a sneak peek into the dangerous location, and the block where the crime occurred along with the count. 
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/259daf88-36eb-4786-809a-1406ef6f6cae/Untitled.png)
+
+![Tile Dashboard Main](https://github.com/Priii07/Chicago_Crime_Viz/assets/50296254/f3a50568-0a7a-4b1a-a1ea-665c8414d3c0)
